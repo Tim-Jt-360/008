@@ -1,0 +1,24 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_FFD49C42_F4EF_7D35_41EB_1E5234A63A36.label = P0 Eingang
+panorama_E7D3D6DC_F575_EACD_41EE_868C3CE79120.label = P0 Korridor 1
+panorama_E4CCE293_F575_255B_41EB_566D49DA2E60.label = P0 Korridor 2
+panorama_FFE51EA8_F4EF_5D75_41D4_51DB2B1D77A5.label = P0 Zimmer 1
+panorama_FFE6E1B1_F4EF_6757_41E3_58F76E860B77.label = P1 Bad
+panorama_FFE6F4C4_F4EF_2D3D_41ED_E3A6C55399BB.label = P1 Dusche
+panorama_FFE62589_F4EF_EF37_41ED_D70889F0D98A.label = P1 Korridor 1
+panorama_FFE65C31_F4EF_3D57_41E2_4DC05DBF8D23.label = P1 Korridor 2
+panorama_FFE6A85C_F4EC_E5CD_41E6_CB6DBD9C67D5.label = P1 Zimmer 3
+panorama_FFE656BC_F4EF_2D4D_41DE_A9263FD5779B.label = P1 Zimmer 4
+panorama_FFE6CE7C_F4EF_5DCD_41CB_3E1CF2AA3D59.label = P1 Zimmer2
+panorama_E5F60725_F515_2B7F_41D0_A1B917804E54.label = P2 Essen
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Schüepwis
